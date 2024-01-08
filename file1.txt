@@ -4,3 +4,6 @@ prueba de
 update
 desoues de un
 commit
+ahora otro cambio 
+para ver
+el git diff

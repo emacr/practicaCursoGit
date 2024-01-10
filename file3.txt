@@ -1,5 +1,0 @@
-archvio 3
-esta 
-viene siendo
-borre una linea
-de codigo nuevo para practicar

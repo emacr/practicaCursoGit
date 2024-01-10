@@ -4,6 +4,5 @@ prueba de
 update
 desoues de un
 commit
-ahora otro cambio 
-para ver
-el git diff
+borre 2 lineas 
+esto para rama nueva

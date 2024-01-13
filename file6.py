@@ -1,0 +1,1 @@
+print('archivo 6 de python')
